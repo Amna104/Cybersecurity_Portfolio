@@ -1,5 +1,6 @@
 # NIST CSF Incident Response Portfolio Project
 
+
 ## Overview
 This project demonstrates my ability to respond to a security incident using the NIST Cybersecurity Framework (CSF). The activity involved analyzing a simulated security incident, applying the NIST CSF steps, and documenting the response process.
 
