@@ -1,5 +1,6 @@
 # OS Hardening & Security Risk Assessment
 
+
 ## Overview
 This project demonstrates my ability to conduct OS hardening, respond to security incidents, and perform a detailed risk assessment. It includes identifying vulnerabilities, documenting incidents, and recommending remediations to improve organizational security.
 
