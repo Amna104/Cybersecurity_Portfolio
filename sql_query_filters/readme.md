@@ -1,6 +1,5 @@
 # SQL Query Filtering for Security Tasks
 
-
 ## Overview
 This project demonstrates my ability to apply SQL queries with filters to investigate security events and manage employee systems. The activity covers retrieving login attempts and filtering employee records to perform security updates.
 
