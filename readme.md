@@ -26,5 +26,3 @@ Hi! I'm **Amna Arshad**, an aspiring **Cybersecurity Analyst** with hands-on exp
 - [LinkedIn](https://www.linkedin.com/in/amna-arshad)  
 - [GitHub](https://github.com/Amna104)  
 
----
-
