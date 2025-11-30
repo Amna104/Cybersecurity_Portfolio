@@ -36,3 +36,32 @@ All files in the analyst's home directory have been encrypted. The goal is to:
 - Decrypt Caesar cipher:
 ```bash
 cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"
+```
+
+ - Revealed command to decrypt main file:
+```bash
+openssl aes-256-cbc -pbkdf2 -a -d -in Q1.encrypted -out Q1.recovered -k ettubrute
+```
+
+### **Task 3: Decrypt a File**
+
+- Navigate to home directory: cd ~
+- Decrypt file with OpenSSL command:
+```bash
+openssl aes-256-cbc -pbkdf2 -a -d -in Q1.encrypted -out Q1.recovered -k ettubrute
+```
+
+**Verify output:**
+```bash
+ls
+cat Q1.recovered
+```
+---
+
+## **Key Skills Demonstrated**
+
+- Listing hidden files in Linux
+- Using cat to read file contents
+- Decrypting Caesar cipher with tr
+- Using OpenSSL to decrypt AES-encrypted files
+- Understanding symmetric encryption and key usage
